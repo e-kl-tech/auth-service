@@ -20,7 +20,7 @@
 ```bash
 # Клонируйте репозиторий
 git clone https://github.com/e-kl-tech/auth-service.git
-cd auth-service-fastapi
+cd auth-service
 
 # Запустите контейнеры
 docker-compose up -d --build
